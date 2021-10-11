@@ -7,6 +7,14 @@ commander@^2.19.0:
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
   integrity sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==
 
+editorconfig-lint@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/editorconfig-lint/-/editorconfig-lint-0.1.0.tgz#a731a2170403bdb97da152a9b3577981dafe246a"
+  integrity sha512-bJI/6NSmV1knM9CsJl1a7KxupJvnFEYhorW2U+3oI7iFkrxST7gJc/wwqRek6fnw7qCqADQOAed1LwskXOsE/g==
+  dependencies:
+    editorconfig "^0.15.3"
+    minimist "^1.2.5"
+
 editorconfig@^0.15.3:
   version "0.15.3"
   resolved "https://registry.yarnpkg.com/editorconfig/-/editorconfig-0.15.3.tgz#bef84c4e75fb8dcb0ce5cee8efd51c15999befc5"
