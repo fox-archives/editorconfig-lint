@@ -1,6 +1,14 @@
-# editorconfig-linter
+# editorconfig-lint
 
-I use this to lint all my `.editorconfig` files to ensure they have the proper formatting and settings. This includes
+A hacked and buggy up "linter" that I use this to lint all my `.editorconfig` files to ensure they have the proper formatting and settings. This includes
 
 - Correct spacing (brackets, equals sign, newlines)
-- Various settings are correct
+- Certain settings have been set
+
+The linting rules are really opinionated
+
+## Installation
+
+```sh
+pnpm i -g editorconfig-lint
+```
