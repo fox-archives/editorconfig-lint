@@ -1,0 +1,12 @@
+{
+  "name": "editorconfig-linter",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "Edwin Kofler <edwin@kofler.dev> (https://edwinkofler.com)",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "editorconfig": "^0.15.3",
+    "minimist": "^1.2.5"
+  }
+}
